@@ -1,6 +1,6 @@
 <?php
 
-namespace Itobuz\Ulshamim;
+namespace Ulshamim\Itobuz;
 
 use Illuminate\Http\Request;
 use App\Http\Requests;

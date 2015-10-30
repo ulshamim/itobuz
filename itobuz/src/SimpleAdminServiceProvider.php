@@ -26,6 +26,6 @@ class SimpleAdminServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->make('Itobuz\Ulshamim\SimpleAdminController');
+        $this->app->make('Ulshamim\Itobuz\SimpleAdminController');
     }
 }
