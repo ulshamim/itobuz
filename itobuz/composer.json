@@ -1,0 +1,14 @@
+{
+    "name": "ulshamim/itobuz",
+    "description": "This is test package",
+    "type": "test package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shamim ullah",
+            "email": "shamim@itobuz.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
